@@ -1,1 +1,3 @@
-# neural-networks
+# Neural Networks & Deep Learning
+This repository is menat to guide my studies in deep learning and neural networks in general. The main motivator for this is to be able to use neural networks as non-linear function approximators in reinforcement learning problems. I'll be first doing Geoffrey Hinton course on deep learning and then apply these concepts more carefully in the RL context. After completing the course, i will resume Reinforcement Learning: An Introduction Ch.10, which explains On-Policy Control with Approximation.
+This repository will be repurposed when i finish reading Sutton's book to start Maxim Lapan's book on Deep Reinforcement Learning.
